@@ -1,0 +1,44 @@
+h2{
+    margin: 20px;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+}
+
+.trabajando{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+img{
+    /* height: 100px; */
+    width: 125px;
+    margin: 20px;
+}
+
+img:hover{
+    scale: 1.1;
+    border: solid 2px #da4167;
+}
+
+#profes{
+    margin: 20px;
+    height: 100px;
+    width: 75px;
+}
+
+#alta{
+    height: 100px;
+    width: 75px;
+}
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
